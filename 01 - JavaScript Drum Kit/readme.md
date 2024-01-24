@@ -1,5 +1,6 @@
 JavaScript Drum Kit
 ===
+![image](./sounds/index.png)
 
 ```javascript
 function playSound(e) {
